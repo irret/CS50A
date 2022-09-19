@@ -16,7 +16,7 @@ header {
     background-image: url(../assets/regenerative-medicine-axolotl-genome-1.jpg);
     width: 83%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
     margin: border-top: 5px solid rgba(1, 4, 41, 0.97);
 }
